@@ -1,0 +1,276 @@
+{
+  "format": "Micro-Manager Property Map",
+  "major_version": 2,
+  "minor_version": 0,
+  "map": {
+    "StagePositions": {
+      "type": "PROPERTY_MAP",
+      "array": [
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    100.0,
+                    200.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "OtherStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    7.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    0.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "Pos1"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {}
+            ]
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage"
+          }
+        },
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    300.0,
+                    400.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "OtherStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    7.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    0.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "Pos2"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {}
+            ]
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage"
+          }
+        },
+        {
+          "DefaultXYStage": {
+            "type": "STRING",
+            "scalar": "XYStage"
+          },
+          "DevicePositions": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "XYStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    500.0,
+                    600.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "OtherStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    7.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              },
+              {
+                "Device": {
+                  "type": "STRING",
+                  "scalar": "ZStage"
+                },
+                "Position_um": {
+                  "type": "DOUBLE",
+                  "array": [
+                    0.0
+                  ]
+                },
+                "Properties": {
+                  "type": "PROPERTY_MAP",
+                  "array": [
+                    {}
+                  ]
+                }
+              }
+            ]
+          },
+          "GridCol": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "GridRow": {
+            "type": "INTEGER",
+            "scalar": 0
+          },
+          "Label": {
+            "type": "STRING",
+            "scalar": "Pos3"
+          },
+          "Properties": {
+            "type": "PROPERTY_MAP",
+            "array": [
+              {}
+            ]
+          },
+          "DefaultZStage": {
+            "type": "STRING",
+            "scalar": "ZStage"
+          }
+        }
+      ]
+    }
+  }
+}
